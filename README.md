@@ -1,3 +1,11 @@
+A fork of mini-nbody
+
+A casual mini project to learn the tuning of nbody sum for cuda and openmp&simd
+
+-------------------------------------------------
+
+
+
 mini-nbody: A simple N-body Code
 ================================
 
