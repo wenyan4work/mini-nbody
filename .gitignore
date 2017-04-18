@@ -11,3 +11,12 @@
 *.lai
 *.la
 *.a
+
+.cproject
+.project
+cuda/nbody-block
+cuda/nbody-ftz
+cuda/nbody-orig
+cuda/nbody-soa
+cuda/nbody-unroll
+
