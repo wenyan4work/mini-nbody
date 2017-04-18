@@ -19,5 +19,6 @@ cuda/nbody-ftz
 cuda/nbody-orig
 cuda/nbody-soa
 cuda/nbody-unroll
+cuda/nbody-nosoft
 N2sum/.vscode/
 N2sum/*.X
